@@ -1,0 +1,8 @@
+
+enum ReturnType{
+  GET_USERS,
+  GET_USERS_ALBUMS,
+  GET_POSTS,
+  GET_COMMENTS,
+  GET_PHOTOS
+}
